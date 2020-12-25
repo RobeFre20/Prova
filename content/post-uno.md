@@ -8,11 +8,15 @@ type: "post"
 
 {{< youtube y8SeNGy4_i0 >}}
 
+<div style="text-align: center;">
+    {{.Inner}}
+    {{% center %}}
+    
 En la sala de un hospital
 
 a las 9:43 nació Simon
 
-Es el verano del '56
+Es el verano del ‘56
 
 El orgullo de don Andrés, por ser varón
 
@@ -98,7 +102,7 @@ En la sala de un hospital
 
 De una extraña enfermedad murió Simón
 
-Es el verano del '86
+Es el verano del ‘86
 
 Al enfermo de la cama 10 nadie lloró
 
@@ -125,3 +129,6 @@ de vivir amargos recuerdos en su propio infierno
 No se puede corregir a la naturaleza
 
 Palo que nace doblado, jamás su tronco endereza
+
+{{% /center %}}
+</div>
