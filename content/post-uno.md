@@ -8,6 +8,7 @@ type: "post"
 
 {{< youtube y8SeNGy4_i0 >}}
 
+<p style="text-align: center;">
 En la sala de un hospital
 
 a las 9:43 nació Simon
@@ -125,3 +126,4 @@ de vivir amargos recuerdos en su propio infierno
 No se puede corregir a la naturaleza
 
 Palo que nace doblado, jamás su tronco endereza
+</p>
