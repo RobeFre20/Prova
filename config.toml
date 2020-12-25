@@ -43,3 +43,7 @@ enable = true
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "https://github.com/RobeFre20"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
