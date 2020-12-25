@@ -8,11 +8,11 @@ type: "post"
 
 {{< youtube y8SeNGy4_i0 >}}
 
-<center>En la sala de un hospital</center>
+En la sala de un hospital
 
-<center>a las 9:43 nació Simon</center>
+a las 9:43 nació Simon
 
-<center>Es el verano del '56</center>
+Es el verano del '56
 
 El orgullo de don Andrés, por ser varón
 
