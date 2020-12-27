@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SitodiRoberto</title>
+    <link>https://sitodiroberto.netlify.app/</link>
+    <description>Recent content on SitodiRoberto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sitodiroberto.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Cinque</title>
+      <link>https://sitodiroberto.netlify.app/post-cinque/</link>
+      <pubDate>Fri, 25 Dec 2020 12:18:21 +0100</pubDate>
+      
+      <guid>https://sitodiroberto.netlify.app/post-cinque/</guid>
+      <description>Salve questo è lultimo post di prova, quindi se non avete meglio da fare&amp;hellip; boh andate a giocare a Minecraft..</description>
+    </item>
+    
+    <item>
+      <title>Post Quattro</title>
+      <link>https://sitodiroberto.netlify.app/post-quattro/</link>
+      <pubDate>Fri, 25 Dec 2020 12:18:03 +0100</pubDate>
+      
+      <guid>https://sitodiroberto.netlify.app/post-quattro/</guid>
+      <description>Salve questo è il mio quarto post.. in verità voglio vedere come si vede alla fine con molti post :)</description>
+    </item>
+    
+    <item>
+      <title>Post Tre</title>
+      <link>https://sitodiroberto.netlify.app/post-tre/</link>
+      <pubDate>Fri, 25 Dec 2020 12:17:57 +0100</pubDate>
+      
+      <guid>https://sitodiroberto.netlify.app/post-tre/</guid>
+      <description>Salve questo è il mio terzo post, come avrete capito li sto facendo a caso ma vabbe..</description>
+    </item>
+    
+    <item>
+      <title>Post Due</title>
+      <link>https://sitodiroberto.netlify.app/post-due/</link>
+      <pubDate>Fri, 25 Dec 2020 12:17:51 +0100</pubDate>
+      
+      <guid>https://sitodiroberto.netlify.app/post-due/</guid>
+      <description>Salve questo è il mio secondo post, Pazzesco!</description>
+    </item>
+    
+    <item>
+      <title>El Gran Varon, Willy Colon</title>
+      <link>https://sitodiroberto.netlify.app/post-uno/</link>
+      <pubDate>Fri, 25 Dec 2020 12:09:46 +0100</pubDate>
+      
+      <guid>https://sitodiroberto.netlify.app/post-uno/</guid>
+      <description>En la sala de un hospital
+a las 9:43 nació Simon
+Es el verano del ‘56
+El orgullo de don Andrés, por ser varón
+Fue criado como los demas
+Con mano dura, con severidad
+Nunca opinó
+Cuando crezcas vas a estudiar
+La misma vaina que tu papá, óyelo bien
+Tendrás que ser un gran varon
+Al extranjero se fue Simón
+Lejos de casa, se le olvidó aquel sermón</description>
+    </item>
+    
+  </channel>
+</rss>
