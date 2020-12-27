@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/post-cinque/</loc>
+    <lastmod>2020-12-25T12:18:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/post-quattro/</loc>
+    <lastmod>2020-12-25T12:18:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/post-tre/</loc>
+    <lastmod>2020-12-25T12:17:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/post-due/</loc>
+    <lastmod>2020-12-25T12:17:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/post-uno/</loc>
+    <lastmod>2020-12-25T12:09:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sitodiroberto.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
