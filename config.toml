@@ -47,3 +47,4 @@ link = "https://github.com/RobeFre20"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+enableInlineShorcodes = true
