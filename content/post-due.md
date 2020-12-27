@@ -28,7 +28,7 @@ Come secondo passo dovrete cercare un tema da caricare nel vostro sito, per farl
 
 Dopodiché sempre sulla cartella del vostro sito recatevi nella directory *themes* e create una cartella rinominandola *tema*. All'interno di essa estraete il tema appena scaricato.
 
-Come ultimo passaggio aprite il file *config.toml* nella cartella iniziale e aggiungete questa stringa: *theme: "tema"*
+Come ultimo passaggio aprite il file *config.toml* nella cartella iniziale e aggiungete questa stringa: *theme: "tema"* nell'ultima riga.
 
 {{< figure src="https://res.cloudinary.com/robertofre20/image/upload/v1609083095/sito/Cattura_opja05.png" >}}
 
