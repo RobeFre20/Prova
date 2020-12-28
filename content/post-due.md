@@ -18,7 +18,7 @@ Una volta scaricato Hugo, preparate una cartella nel vostro computer dove creare
 
 Ora aprite il terminale all'interno della vostra cartella, scrivendo sulla barra della directory *cmd* e cliccando invio
 
-{{< video >}}https://res.cloudinary.com/robertofre20/video/upload/v1609099387/sito/2020-12-27_21-01-10_i5ek0w.mp4{{< /video >}}
+{{< video >}}https://res.cloudinary.com/robertofre20/video/upload/v1609161480/sito/sito-1_xiwcib.mp4{{< /video >}}
 
 Per creare il sito quindi scriviamo {{< font >}}"hugo new site NOME-DEL-SITO"{{< /font >}} (al posto di NOME-DEL-SITO mettete il nome che volete dare al vostro sito). **D'ora in poi tutte le operazioni saranno solo all'interno della cartella appena creata.**
 
